@@ -36,6 +36,7 @@ cin>>a;
 cout<<"enter the value of b";
 cin>>b;
 int sum;
-cout<<"sum of a and b is "<<a+b;
+sum = a + b;
+cout<<"sum of a and b is "<<sum;
 */
 }
